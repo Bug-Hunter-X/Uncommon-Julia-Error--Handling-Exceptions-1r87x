@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Julia: improper exception handling. The original code (`bug.jl`) throws a generic error message when a negative number is passed to the function.  The solution (`bugSolution.jl`) shows a better approach by providing more informative error messages and using more specific exception types when appropriate.
